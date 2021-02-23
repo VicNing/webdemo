@@ -1,0 +1,12 @@
+.App {
+  padding: 20px;
+}
+
+.local-container {
+  margin-top: 20px;
+}
+
+.video-container {
+  width: 480px;
+  height: 320px;
+}
